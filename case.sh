@@ -5,7 +5,7 @@ bike) echo "The bike rental is 50/hr"
         ;;
 cycle) echo "The cycle rental is  30/hr"
         ;;
-*) echo "**Unknwn Vehicle**"
+*) echo "**Unknown Vehicle**"
         ;;
 
 esac
